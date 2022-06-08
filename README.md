@@ -1,4 +1,4 @@
-# Dockerfile que prrovisiona um container com o apache2 e um site de exemplo
+# Dockerfile que provisiona um container com o apache2 e um site de exemplo
 
 ## Requisitos
 
